@@ -31,8 +31,9 @@ master.menu.sign-out = Salir
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link-Isabel = Enlace favorito de Isabel
 master.menu.anonymous.favourite-link-Alejandro = Enlace favorito de Alejandro
-master.menu.anonymous.favourite-link-Iván = Enlace favorito de Iván
+master.menu.anonymous.favourite-link-Ivan = Enlace favorito de Ivan
 master.menu.anonymous.favourite-link-Jorge = Enlace favorito de Jorge
+master.menu.anonymous.favourite-link-Fernando = Enlace favorito de Fernando
 
 # master.menu.administrator ###################################################
 
@@ -48,16 +49,18 @@ master.menu.administrator.shutdown = Parar el sistema
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link-Isabel = Enlace favorito de Isabel
 master.menu.provider.favourite-link-Alejandro = Enlace favorito de Alejandro
-master.menu.provider.favourite-link-Iván = Enlace favorito de Iván
+master.menu.provider.favourite-link-Ivan = Enlace favorito de Ivan
 master.menu.provider.favourite-link-Jorge = Enlace favorito de Jorge
+master.menu.provider.favourite-link-Fernando = Enlace favorito de Fernando
 
 # master.menu.consumer ##########################################################
 
 master.menu.consumer = Consumidor
 master.menu.consumer.favourite-link-Isabel = Enlace favorito de Isabel
 master.menu.consumer.favourite-link-Alejandro = Enlace favorito de Alejandro
-master.menu.consumer.favourite-link-Iván = Enlace favorito de Iván
+master.menu.consumer.favourite-link-Ivan = Enlace favorito de Ivan
 master.menu.consumer.favourite-link-Jorge = Enlace favorito de Jorge
+master.menu.consumer.favourite-link-Fernando = Enlace favorito de Fernando
 
 # master.menu.user-account ####################################################
 
