@@ -24,6 +24,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-Ivan" action="https://ev.us.es/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-Jorge" action="https://www.lsi.us.es/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-Fernando" action="https://discord.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-Beatriz" action="https://github.com/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
@@ -41,6 +42,7 @@
 			<acme:menu-suboption code="master.menu.provider.favourite-link-Ivan" action="https://ev.us.es/"/>
 			<acme:menu-suboption code="master.menu.provider.favourite-link-Jorge" action="https://www.lsi.us.es/"/>
 			<acme:menu-suboption code="master.menu.provider.favourite-link-Fernando" action="https://discord.com/"/>
+			<acme:menu-suboption code="master.menu.provider.favourite-link-Beatriz" action="https://github.com/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.consumer" access="hasRole('Consumer')">
@@ -49,6 +51,7 @@
 			<acme:menu-suboption code="master.menu.consumer.favourite-link-Ivan" action="https://ev.us.es/"/>
 			<acme:menu-suboption code="master.menu.consumer.favourite-link-Jorge" action="https://www.lsi.us.es/"/>
 			<acme:menu-suboption code="master.menu.consumer.favourite-link-Fernando" action="https://discord.com/"/>
+			<acme:menu-suboption code="master.menu.consumer.favourite-link-Beatriz" action="https://github.com/"/>
 		</acme:menu-option>
 	</acme:menu-left>
 
