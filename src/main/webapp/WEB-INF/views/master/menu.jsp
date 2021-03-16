@@ -20,6 +20,7 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-Isabel" action="http://www.netflix.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-Alejandro" action="https://stackoverflow.com/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
@@ -32,11 +33,13 @@
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.provider" access="hasRole('Provider')">
-			<acme:menu-suboption code="master.menu.provider.favourite-link" action="http://www.example.com/"/>
+			<acme:menu-suboption code="master.menu.provider.favourite-link-Isabel" action="http://www.netflix.com/"/>
+			<acme:menu-suboption code="master.menu.provider.favourite-link-Alejandro" action="https://stackoverflow.com/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.consumer" access="hasRole('Consumer')">
-			<acme:menu-suboption code="master.menu.consumer.favourite-link" action="http://www.example.com/"/>
+			<acme:menu-suboption code="master.menu.consumer.favourite-link-Isabel" action="http://www.netflix.com/"/>
+			<acme:menu-suboption code="master.menu.consumer.favourite-link-Alejandro" action="https://stackoverflow.com/"/>
 		</acme:menu-option>
 	</acme:menu-left>
 
